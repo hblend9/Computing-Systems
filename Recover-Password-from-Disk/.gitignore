@@ -1,7 +1,0 @@
-bin/*
-out/*
-
-tests/*-actual*
-tests/*-expected-files
-usb.dmg
-recovery
