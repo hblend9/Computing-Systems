@@ -1,0 +1,4 @@
+compiler:
+    script: "/testers/cs24/project02/compiler/test"
+opts:
+    script: "/testers/cs24/project02/opts/test"

@@ -1,0 +1,5 @@
+bin
+out
+progs/*-actual.txt
+progs/*-expected.txt
+progs/*-time.csv

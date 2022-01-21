@@ -1,0 +1,4 @@
+bin
+.debug
+hashes.txt
+tests/*-actual*.txt

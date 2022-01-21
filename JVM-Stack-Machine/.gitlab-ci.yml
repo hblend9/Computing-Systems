@@ -1,0 +1,4 @@
+lint:
+    script: "/testers/cs24/project01/lint/test"
+jvm:
+    script: "/testers/cs24/project01/jvm/test"

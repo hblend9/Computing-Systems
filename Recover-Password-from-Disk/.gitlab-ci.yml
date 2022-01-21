@@ -1,0 +1,6 @@
+lint:
+    script: "/testers/cs24/project00/lint/test"
+tree:
+    script: "/testers/cs24/project00/tree/test"
+disk:
+    script: "/testers/cs24/project00/disk/test"

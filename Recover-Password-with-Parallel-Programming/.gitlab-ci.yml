@@ -1,0 +1,2 @@
+passwd:
+    script: "/testers/cs24/project07/passwd/test"

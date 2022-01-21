@@ -1,0 +1,2 @@
+meltdown:
+    script: "echo -n $GITLAB_USER_LOGIN | sudo tee \"/sys/kernel/kernel_data/user\"; /usr/bin/meltdown_tester.sh"
